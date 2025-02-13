@@ -1,1 +1,1 @@
-This is a tic-tac-toe project that was coded using JavaScript Node.js
+This is a tic-tac-toe project that was created using JavaScript Node.js
